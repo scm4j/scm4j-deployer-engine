@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/scm4j/scm4j-deployer-engine.svg?branch=master)](https://travis-ci.org/scm4j/scm4j-deployer-engine)
 [![Coverage Status](https://coveralls.io/repos/github/scm4j/scm4j-deployer-engine/badge.svg?branch=master)](https://coveralls.io/github/scm4j/scm4j-deployer-engine?branch=master)
 
+> [!IMPORTANT]
+> This repository is no longer maintained as a standalone project. Development has moved to the [untillpro/scm4j monorepo](https://github.com/untillpro/scm4j), where this project is located in the `scm4j-deployer-engine` subdirectory. Please submit new issues and pull requests in the monorepo. This repository is retained for historical reference.
+
 Status: in development
 
 
